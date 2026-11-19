@@ -91,3 +91,17 @@ This is a demonstration project using simulated operational data. It is not conn
 Aspiring Data Analyst | Retail & E-commerce Operations Management
 
 GitHub: [ScriptSeekerZA](https://github.com/ScriptSeekerZA)
+
+
+---
+
+## Project Screenshots
+
+### 1. Main E-commerce Operations Management Board
+![Operations Management](e-commerce%20management.png)
+
+### 2. Operational Dashboard
+![Dashboard](Dashboard.png)
+
+### 3. Kanban Order Fulfilment View
+![Kanban Dashboard](kaban%20dashboard.png)
