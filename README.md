@@ -105,3 +105,24 @@ GitHub: [ScriptSeekerZA](https://github.com/ScriptSeekerZA)
 
 ### 3. Kanban Order Fulfilment View
 ![Kanban Dashboard](kaban%20dashboard.png)
+
+
+---
+
+## Key Skills Demonstrated
+
+- E-commerce order management
+- Inventory monitoring and stock availability tracking
+- Supplier coordination and follow-ups
+- Order fulfilment tracking
+- Priority and risk management
+- Kanban workflow management
+- Operational dashboard reporting
+- KPI monitoring and performance visibility
+- Workflow organisation using Monday.com
+
+## Project Outcome
+
+Developed a centralised E-commerce Operations Management workspace using Monday.com to demonstrate how operational teams can monitor orders, track inventory, coordinate suppliers, manage fulfilment workflows and improve management visibility.
+
+The project demonstrates practical application of digital operations management tools in an e-commerce environment.
